@@ -1,3 +1,5 @@
-B2 4 In the big data time, servitization becomes one of the important # development trends - of the IT world.
+<<<<<<< HEAD
+aB2 In the big data time, servitization becomes one of the important # development trends - of the IT world.
+>>>>>>> origin/qiaoxin
 More and more software resources are developed and existed in the format of services in Internet.
 By the study of the RESEP approach, the meaning of this word.

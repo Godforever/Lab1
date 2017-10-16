@@ -1,1 +1,3 @@
-B2 4 by the big data time servitization becomes one of services in internet by
+<<<<<<< HEAD
+aB2 by the big data time servitization becomes one of services in internet by
+>>>>>>> origin/qiaoxin
